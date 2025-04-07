@@ -24,5 +24,13 @@
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
 </div>
-    
+
+## projeto no qual estou trabalhando
+
+### Contexto
+SkillNet é uma plataforma online que conecta usuários e freelancers para a contratação de serviços específicos. A aplicação permite a criação de portfólios, gerenciamento de serviços, interações entre clientes e freelancers, além de avaliações e contratos. A plataforma visa facilitar a troca de serviços, com funcionalidades de cadastro, chat, e feedback de usuários.
+
+ ### Projeto
+ 
+<a href="https://github.com/deluxxe01/SkillNet">Cliqui aqui para ir ao projeto 😊</a>
     
