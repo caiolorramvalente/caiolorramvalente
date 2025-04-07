@@ -2,6 +2,12 @@
 
 - hoje sou um  estudante de curso tecnico
 - estudando react
+
+<div>
+  <a>
+    <img height="180em" src=""https://github-readme-stats.vercel.app/api?username=caiolorramvalente&show_icons=true&theme=radical>
+    <img height="180em">
+</div>
   
 
 <!--
