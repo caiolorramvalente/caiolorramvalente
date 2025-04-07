@@ -1,7 +1,7 @@
 ## Olá! Sou o caio lorram valente 👋
 
-- hoje sou um  estudante de curso tecnico
-- estudando react
+- hoje dia  sou um  estudante de curso tecnico(Senai)
+- estudando por enquanto react
   
 <div>
   <a>
