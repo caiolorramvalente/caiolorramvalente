@@ -13,10 +13,16 @@
     <img align="center"  height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center"  height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img align="center"  height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img align="right" width="200px" src="https://i.pinimg.com/originals/0d/ac/06/0dac06a5332d13e2a4e2dc30ba0c6411.gif"/>
+    <img align="right" width="120px" src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif"/>
   </div>
 </div>
-
-## Seção 1
+    
+##
+ 
+ <div>
+   <a href="https://www.linkedin.com/in/caio-lorram-valente-52523334b/">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+</div>
     
     
