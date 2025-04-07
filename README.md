@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá! Sou o caio lorram valente 👋
+
+- hoje sou um  estudante de curso tecnico
+- estudando react
+  
 
 <!--
 **caiolorramvalente/caiolorramvalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
