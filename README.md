@@ -32,5 +32,5 @@ SkillNet é uma plataforma online que conecta usuários e freelancers para a con
 
  ### Projeto
  
-<a href="https://github.com/deluxxe01/SkillNet">Cliqui aqui para ir ao projeto 😊</a>
+<a href="https://github.com/deluxxe01/SkillNet">Cliqui aqui para ir ao projeto </a>
     
