@@ -1,7 +1,8 @@
 ## Olá! Sou o caio lorram valente 👋
 
 - hoje dia  sou um  estudante de curso tecnico(Senai)
-- estudando por enquanto react
+- estudando react,nodejs
+- tenho conhecimento intermediario do framework express
   
 <div>
   <a>
